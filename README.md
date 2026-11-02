@@ -107,7 +107,8 @@ The project provides useful insights into the Indian housing market through inte
 
 ## 🔗 Project Repository
 
-[Click Here to View Project](https://github.com/yourusername/India_Housing_Project)
+[Click Here to View Project]
+(https://github.com/Akshat-Data-Analyst/India-Housing-Price-Anlysis)
 
 ## 👨‍💻 Author
 
