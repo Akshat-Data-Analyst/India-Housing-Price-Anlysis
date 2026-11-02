@@ -96,14 +96,22 @@ India_Housing_Project/
 └── README.md
 ```
 
-## 👨‍💻 Author
 
-**Akshat Jain**
-
-Aspiring Data Analyst | Python | SQL | Power BI | Excel
 
 ## 📌 Conclusion
 
 This project helped me understand data cleaning, exploratory data analysis, data visualization, and interactive dashboard development using Python and Streamlit.
 
 The project provides useful insights into the Indian housing market through interactive visualizations.
+
+
+## 🔗 Project Repository
+
+[Click Here to View Project](https://github.com/yourusername/India_Housing_Project)
+
+## 👨‍💻 Author
+
+**Akshat Jain**
+
+Aspiring Data Analyst | Python | SQL | Power BI | Excel
+
