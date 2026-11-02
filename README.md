@@ -1,2 +1,2 @@
-# India-Housing-Price-Anlysis
+# India-Housing-Price-Analysis
 My GitHub Profile README
